@@ -1,0 +1,10 @@
+{
+  "name": "Meta Ray-Ban Live Translator",
+  "description": "Real-time AI voice translation and live subtitle streaming for Meta Ray-Ban smart glasses via Bluetooth with iOS & Android PWA support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
